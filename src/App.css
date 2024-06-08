@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Helvetica+Neue:wght@400;700&display=swap");
+:root {
+  --font-helvetica-neue: "Helvetica Neue";
+  --font-size-base: 1rem;
+  --font-size-xl: 1.25rem;
+  --primary-white: #fff;
+  --color-gainsboro: rgba(217, 217, 217, 0.1);
+  --kinetic-researcher: #255ed3;
+  --padding-sm: 0.875rem;
+}
+body {
+  margin: 0;
+  height: 100%;
+  line-height: normal;
+  background-color: black;
+}
+
